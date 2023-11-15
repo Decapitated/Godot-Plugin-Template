@@ -1,2 +1,2 @@
-# Godot Plugin Tempalte
- Template plugin with different examples.
+# Godot Plugin Template
+Template plugin with different examples.
